@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mattsimonis/meet-mute/master/logo.png" alt="Meet Mute" style="max-width:100%;" width="64" height="64">
 </p>
@@ -7,13 +10,16 @@
 
 ## Installation
 
-[<img src="install.png" width="175px">][webstore-url]
-
-[webstore-url]: https://chrome.google.com/webstore/detail/meet-mute/dkgoclojlihiolngeagmhkjiglmoeeic
+- Download a release zip and expand somewhere, or clone this repo.
+- Go to [chrome://extensions] or [edge:extensions]
+- Enable 'Developer mode' using the toggle at the top right/bottom left.
+- Click 'Load Unpacked' and point at the directory where you expanded the zip
+- The extension is now loaded, click the icon in the address bar to mute / unmute
+- You can also set keyboard shortcuts at chrome://extensions/shortcuts or edge://extensions/shortcuts.
 
 # Options
 
-Mute/unmute sound can be enabled in extension options.
+- Mute/unmute sound can be enabled in extension options.
 
 # License
 
