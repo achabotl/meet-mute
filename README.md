@@ -1,5 +1,4 @@
-
-
+This is a fork of [Meet Mute by @mattsimonis](https://github.com/mattsimonis/meet-mute) that includes some community PRs that have never been merged.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mattsimonis/meet-mute/master/logo.png" alt="Meet Mute" style="max-width:100%;" width="64" height="64">
